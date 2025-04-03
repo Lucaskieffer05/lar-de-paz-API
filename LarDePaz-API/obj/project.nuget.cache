@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5W1g0ToCVg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kieff\\source\\repos\\Lucaskieffer05\\lar-de-paz-API\\LarDePaz-API\\LarDePaz-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kieff\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kieff\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
